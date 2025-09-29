@@ -71,7 +71,7 @@ The script will produce outputs in the `results/` folder:
 - **Posterior predictive checks** (`post_pred_check_plot.svg`)
 - **Recovered activity histograms** (`svi_hist_recovered_activity.svg`)
 - **2D activity heatmaps** (`heatmap_XZ.svg`, `heatmap_XY.svg`)
-- - **SVI Samples are stored in** (`f'samples_{mockup_case}.npy'`)
+-  **SVI Samples are stored in** (`f'samples_{mockup_case}.npy'`)
 - **(Optional) 3D reconstructed volumes** (`.mhd`, via SimpleITK)
 
 ## Synthetic Drum Cases

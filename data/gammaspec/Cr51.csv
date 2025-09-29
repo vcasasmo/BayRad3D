@@ -1,0 +1,8 @@
+energy,unc_en,intensity_%,unc_i,type,start level H-l [sec],start level energy  [keV],  end level energy  [keV],  end level H-l  [sec], multipolarity, mixing ratio, unc, conversion coeff. ,unc, parent Z, N, symbol, parent energy shift,parent energy  [keV] , unc, jp,  half_life, half-life operator,unc,unit, half_life [s], unc, decay, decay %, unc,Q , unc, Z,N, symbol ,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+320.0824,0.0004,9.91,0.01,,G,,320.0835,0.0,M1+E2,0.47,3,0.00181,,24,27,Cr,,0,,7/2-,27.704,,4,d,2393625.6,345.6,EC,100,,752.39,19,23,28,V,1-Mar-2016,Wang Jimin and Huang Xiaolong,2024-03-21
+0.536,,0.558363156235386,0.1099248145206372,,X,,,,,,,,,24,27,Cr,,0,,7/2-,27.704,,4,d,2393625.6,345.6,EC,100,,752.39,19,23,28,V,1-Mar-2016,Wang Jimin and Huang Xiaolong,2024-03-21
+4.945,,6.789548877694662,0.13754829895466078,,X,,,,,,,,,24,27,Cr,,0,,7/2-,27.704,,4,d,2393625.6,345.6,EC,100,,752.39,19,23,28,V,1-Mar-2016,Wang Jimin and Huang Xiaolong,2024-03-21
+4.952,,13.357365488283813,0.2625087222588685,,X,,,,,,,,,24,27,Cr,,0,,7/2-,27.704,,4,d,2393625.6,345.6,EC,100,,752.39,19,23,28,V,1-Mar-2016,Wang Jimin and Huang Xiaolong,2024-03-21
+5.444,,2.6875983764215285,0.06171762237535665,,X,,,,,,,,,24,27,Cr,,0,,7/2-,27.704,,4,d,2393625.6,345.6,EC,100,,752.39,19,23,28,V,1-Mar-2016,Wang Jimin and Huang Xiaolong,2024-03-21
+5.444,,2.6875983764215285,0.06171762237535665,,X,,,,,,,,,24,27,Cr,,0,,7/2-,27.704,,4,d,2393625.6,345.6,EC,100,,752.39,19,23,28,V,1-Mar-2016,Wang Jimin and Huang Xiaolong,2024-03-21
+

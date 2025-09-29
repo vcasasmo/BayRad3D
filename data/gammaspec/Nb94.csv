@@ -1,0 +1,9 @@
+energy,unc_en,intensity_%,unc_i,type,start level H-l [sec],start level energy  [keV],  end level energy  [keV],  end level H-l  [sec], multipolarity, mixing ratio, unc, conversion coeff. ,unc, parent Z, N, symbol, parent energy shift,parent energy  [keV] , unc, jp,  half_life, half-life operator,unc,unit, half_life [s], unc, decay, decay %, unc,Q , unc, Z,N, symbol ,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+702.65,0.06,99.8,0.1,,G,,1573.72,871.095,E2,,,0.00186,,41,53,Nb,,0,,6+,2.03E+04,,16,Y,6.40606E+11,50491081559,B-,100,,2045,15,42,52,Mo,01-Jan-06,D. Abriola(a) and  A.A. Sonzogni,22/03/2024
+871.091,0.018,99.8,0.1,,G,,871.095,0,E2,,,0.00108,,41,53,Nb,,0,,6+,2.03E+04,,16,Y,6.40606E+11,50491081559,B-,100,,2045,15,42,52,Mo,01-Jan-06,D. Abriola(a) and  A.A. Sonzogni,22/03/2024
+2.44,,0.011117969,0.00035123,,X,,,,,,,,,41,53,Nb,,0,,6+,2.03E+04,,16,Y,6.40606E+11,50491081559,B-,100,,2045,15,42,52,Mo,01-Jan-06,D. Abriola(a) and  A.A. Sonzogni,22/03/2024
+17.374,,0.056042626,0.001347102,,X,,,,,,,,,41,53,Nb,,0,,6+,2.03E+04,,16,Y,6.40606E+11,50491081559,B-,100,,2045,15,42,52,Mo,01-Jan-06,D. Abriola(a) and  A.A. Sonzogni,22/03/2024
+17.479,,0.106808893,0.002516433,,X,,,,,,,,,41,53,Nb,,0,,6+,2.03E+04,,16,Y,6.40606E+11,50491081559,B-,100,,2045,15,42,52,Mo,01-Jan-06,D. Abriola(a) and  A.A. Sonzogni,22/03/2024
+19.681,,0.028026267,0.000706835,,X,,,,,,,,,41,53,Nb,,0,,6+,2.03E+04,,16,Y,6.40606E+11,50491081559,B-,100,,2045,15,42,52,Mo,01-Jan-06,D. Abriola(a) and  A.A. Sonzogni,22/03/2024
+19.794,,0.032342312,0.00080356,,X,,,,,,,,,41,53,Nb,,0,,6+,2.03E+04,,16,Y,6.40606E+11,50491081559,B-,100,,2045,15,42,52,Mo,01-Jan-06,D. Abriola(a) and  A.A. Sonzogni,22/03/2024
+19.963,,0.004316045,0.000177442,,X,,,,,,,,,41,53,Nb,,0,,6+,2.03E+04,,16,Y,6.40606E+11,50491081559,B-,100,,2045,15,42,52,Mo,01-Jan-06,D. Abriola(a) and  A.A. Sonzogni,22/03/2024

@@ -1,0 +1,7 @@
+energy,unc_en,intensity_%,unc_i,type,shell, parent Z, N, symbol, parent energy shift,parent energy  [keV] , unc, jp,  half_life, half-life operator,unc,unit, half_life [s], unc, decay, decay %, unc,Q , unc, Z,N, symbol ,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+0.8,,0.97493686301664,0.06775214946323822,X,L,28,31,Ni,,0,,3/2-,7.6E+4,,5,Y,2398326374068.992,157784629872.96,EC+B+,100,,1073.0,5,27,32,Co,1-Apr-2018,M. Shamsuzzoha Basunia,2024-03-21
+6.915,,10.244647772474595,0.11877261971177323,X,KA2,28,31,Ni,,0,,3/2-,7.6E+4,,5,Y,2398326374068.992,157784629872.96,EC+B+,100,,1073.0,5,27,32,Co,1-Apr-2018,M. Shamsuzzoha Basunia,2024-03-21
+6.93,,20.02472199467278,0.21052928446919394,X,KA1,28,31,Ni,,0,,3/2-,7.6E+4,,5,Y,2398326374068.992,157784629872.96,EC+B+,100,,1073.0,5,27,32,Co,1-Apr-2018,M. Shamsuzzoha Basunia,2024-03-21
+7.677,,4.15295753205262,0.06045670610418053,X,KB,28,31,Ni,,0,,3/2-,7.6E+4,,5,Y,2398326374068.992,157784629872.96,EC+B+,100,,1073.0,5,27,32,Co,1-Apr-2018,M. Shamsuzzoha Basunia,2024-03-21
+7.677,,4.15295753205262,0.06045670610418053,X,KpB1,28,31,Ni,,0,,3/2-,7.6E+4,,5,Y,2398326374068.992,157784629872.96,EC+B+,100,,1073.0,5,27,32,Co,1-Apr-2018,M. Shamsuzzoha Basunia,2024-03-21
+

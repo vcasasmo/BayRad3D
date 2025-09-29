@@ -1,0 +1,9 @@
+energy,unc_en,intensity_%,unc_i,type,start level H-l [sec],start level energy  [keV],  end level energy  [keV],  end level H-l  [sec], multipolarity, mixing ratio, unc, conversion coeff. ,unc, parent Z, N, symbol, parent energy shift,parent energy  [keV] , unc, jp,  half_life, half-life operator,unc,unit, half_life [s], unc, decay, decay %, unc,Q , unc, Z,N, symbol ,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+834.848,0.003,99.976,0.001,,G,,834.848,0.0,E2,,,2.40E-4,,25,29,Mn,,0,,3+,312.20,,20,d,26974080,17280,EC+B+,100,,1377.1,10,24,30,Cr,20-Jun-2014,YANG DONG and  HUO JUNDE,2024-03-21
+511,,0.00000114,,,X,,,,,,,,,25,29,Mn,,0,,3+,312.20,,20,d,26974080,17280,EC+B+,100,,1377.1,10,24,30,Cr,20-Jun-2014,YANG DONG and  HUO JUNDE,2024-03-21
+0.597,,0.646147937693664,0.1292450844079582,,X,,,,,,,,,25,29,Mn,,0,,3+,312.20,,20,d,26974080,17280,EC+B+,100,,1377.1,10,24,30,Cr,20-Jun-2014,YANG DONG and  HUO JUNDE,2024-03-21
+5.406,,7.645315653102746,0.1384007448547676,,X,,,,,,,,,25,29,Mn,,0,,3+,312.20,,20,d,26974080,17280,EC+B+,100,,1377.1,10,24,30,Cr,20-Jun-2014,YANG DONG and  HUO JUNDE,2024-03-21
+5.415,,15.017316152234818,0.26166050696107696,,X,,,,,,,,,25,29,Mn,,0,,3+,312.20,,20,d,26974080,17280,EC+B+,100,,1377.1,10,24,30,Cr,20-Jun-2014,YANG DONG and  HUO JUNDE,2024-03-21
+5.966,,3.050390240998436,0.06169283740065311,,X,,,,,,,,,25,29,Mn,,0,,3+,312.20,,20,d,26974080,17280,EC+B+,100,,1377.1,10,24,30,Cr,20-Jun-2014,YANG DONG and  HUO JUNDE,2024-03-21
+5.966,,3.050390240998436,0.06169283740065311,,X,,,,,,,,,25,29,Mn,,0,,3+,312.20,,20,d,26974080,17280,EC+B+,100,,1377.1,10,24,30,Cr,20-Jun-2014,YANG DONG and  HUO JUNDE,2024-03-21
+

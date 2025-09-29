@@ -1,0 +1,8 @@
+energy,unc_en,intensity_%,unc_i,type,start level H-l [sec],start level energy  [keV],  end level energy  [keV],  end level H-l  [sec], multipolarity, mixing ratio, unc, conversion coeff. ,unc, parent Z, N, symbol, parent energy shift,parent energy  [keV] , unc, jp,  half_life, half-life operator,unc,unit, half_life [s], unc, decay, decay %, unc,Q , unc, Z,N, symbol ,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+30.77,0.02,0.00052,0.00007,,G,,30.77,0,M4,,,1.69E+05,,42,51,Mo,,0,,5/2+,4.00E+03,,8,Y,1.26228E+11,25245540780,EC,100,,405.8,15,41,52,Nb,15-Dec-10,CORAL M. BAGLIN,22/03/2024
+2.299,,6.063191031,0.624519512,,X,,,,,,,,,42,51,Mo,,0,,5/2+,4.00E+03,,8,Y,1.26228E+11,25245540780,EC,100,,405.8,15,41,52,Nb,15-Dec-10,CORAL M. BAGLIN,22/03/2024
+16.521,,21.1156231,3.151224882,,X,,,,,,,,,42,51,Mo,,0,,5/2+,4.00E+03,,8,Y,1.26228E+11,25245540780,EC,100,,405.8,15,41,52,Nb,15-Dec-10,CORAL M. BAGLIN,22/03/2024
+16.615,,40.32777521,6.015301135,,X,,,,,,,,,42,51,Mo,,0,,5/2+,4.00E+03,,8,Y,1.26228E+11,25245540780,EC,100,,405.8,15,41,52,Nb,15-Dec-10,CORAL M. BAGLIN,22/03/2024
+18.694,,10.4346919,1.559353236,,X,,,,,,,,,42,51,Mo,,0,,5/2+,4.00E+03,,8,Y,1.26228E+11,25245540780,EC,100,,405.8,15,41,52,Nb,15-Dec-10,CORAL M. BAGLIN,22/03/2024
+18.795,,11.99989569,1.792497086,,X,,,,,,,,,42,51,Mo,,0,,5/2+,4.00E+03,,8,Y,1.26228E+11,25245540780,EC,100,,405.8,15,41,52,Nb,15-Dec-10,CORAL M. BAGLIN,22/03/2024
+18.951,,1.565203786,0.239651156,,X,,,,,,,,,42,51,Mo,,0,,5/2+,4.00E+03,,8,Y,1.26228E+11,25245540780,EC,100,,405.8,15,41,52,Nb,15-Dec-10,CORAL M. BAGLIN,22/03/2024

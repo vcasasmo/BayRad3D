@@ -1,0 +1,11 @@
+energy,unc_en,intensity_%,unc_i,type,start level H-l [sec],start level energy  [keV],  end level energy  [keV],  end level H-l  [sec], multipolarity, mixing ratio, unc, conversion coeff. ,unc, parent Z, N, symbol, parent energy shift,parent energy  [keV] , unc, jp,  half_life, half-life operator,unc,unit, half_life [s], unc, decay, decay %, unc,Q , unc, Z,N, symbol ,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+235.69,0.02,0.27,0.02,311904,G,3023222.4,235.690,0.0,M4,,,2.79,,40,55,Zr,,0,,5/2+,64.032,,6,d,5532364.8,518.4,B-,100,,1126.3,10,41,54,Nb,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2024-03-22
+724.192,0.004,44.27,0.22,0.00000000007,G,3023222.4,724.195,0.0,M1+E2,-0.11,2,0.00157,,40,55,Zr,,0,,5/2+,64.032,,6,d,5532364.8,518.4,B-,100,,1126.3,10,41,54,Nb,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2024-03-22
+756.725,0.012,54.38,0.22,0.00000000007,G,3023222.4,756.728,0.0,M1+E2,0.14,5,0.00142,,40,55,Zr,,0,,5/2+,64.032,,6,d,5532364.8,518.4,B-,100,,1126.3,10,41,54,Nb,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2024-03-22
+2.299,,0.0312146300861,0.0032255923125256566,,X,,,,,,,,,40,55,Zr,,0,,5/2+,64.032,,6,d,5532364.8,518.4,B-,100,,1126.3,10,41,54,Nb,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2024-03-22
+16.521,,0.15848212874552395,0.018530644874874307,,X,,,,,,,,,40,55,Zr,,0,,5/2+,64.032,,6,d,5532364.8,518.4,B-,100,,1126.3,10,41,54,Nb,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2024-03-22
+16.615,,0.3026778623864094,0.035361322960567425,,X,,,,,,,,,40,55,Zr,,0,,5/2+,64.032,,6,d,5532364.8,518.4,B-,100,,1126.3,10,41,54,Nb,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2024-03-22
+18.694,,0.07831699675484052,0.009177524758945373,,X,,,,,,,,,40,55,Zr,,0,,5/2+,64.032,,6,d,5532364.8,518.4,B-,100,,1126.3,10,41,54,Nb,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2024-03-22
+18.795,,0.09006454626806659,0.010546886589303415,,X,,,,,,,,,40,55,Zr,,0,,5/2+,64.032,,6,d,5532364.8,518.4,B-,100,,1126.3,10,41,54,Nb,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2024-03-22
+18.951,,0.011747549513226077,0.0014312391188376552,,X,,,,,,,,,40,55,Zr,,0,,5/2+,64.032,,6,d,5532364.8,518.4,B-,100,,1126.3,10,41,54,Nb,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2024-03-22
+

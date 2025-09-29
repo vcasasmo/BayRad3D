@@ -1,0 +1,10 @@
+energy,unc_en,intensity_%,unc_i,type,start level H-l [sec],start level energy  [keV],  end level energy  [keV],  end level H-l  [sec], multipolarity, mixing ratio, unc, conversion coeff. ,unc, parent Z, N, symbol, parent energy shift,parent energy  [keV] , unc, jp,  half_life, half-life operator,unc,unit, half_life [s], unc, decay, decay %, unc,Q , unc, Z,N, symbol ,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+23.875,0.01,16.5,0.2,0.00000001803,G,,23.875,0,M1+E2,0.003,LT,5.06,,50,69,Sn,,89.531,0.013,11/2-,293.1,,7,d,25323840,60480,IT,100,,,,50,69,Sn,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2024-03-22
+65.66,0.01,0.02,0.0003,25315200,G,0.00000001803,89.535,23.875,M4,,,5.00E3,,50,69,Sn,,89.531,0.013,11/2-,293.1,,7,d,25323840,60480,IT,100,,,,50,69,Sn,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2024-03-22
+3.753,,11.1261368,0.39450596565045754,,X,,,,,,,,,50,69,Sn,,89.531,0.013,11/2-,293.1,,7,d,25323840,60480,IT,100,,,,50,69,Sn,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2024-03-22
+25.044,,7.925058871992472,0.15719179074424647,,X,,,,,,,,,50,69,Sn,,89.531,0.013,11/2-,293.1,,7,d,25323840,60480,IT,100,,,,50,69,Sn,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2024-03-22
+25.271,,14.832601295138447,0.2858982394667037,,X,,,,,,,,,50,69,Sn,,89.531,0.013,11/2-,293.1,,7,d,25323840,60480,IT,100,,,,50,69,Sn,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2024-03-22
+28.579,,4.194101781845514,0.09000959023001115,,X,,,,,,,,,50,69,Sn,,89.531,0.013,11/2-,293.1,,7,d,25323840,60480,IT,100,,,,50,69,Sn,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2024-03-22
+28.81,,5.020339832869081,0.10476148516875244,,X,,,,,,,,,50,69,Sn,,89.531,0.013,11/2-,293.1,,7,d,25323840,60480,IT,100,,,,50,69,Sn,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2024-03-22
+29.107,,0.8262380510235663,0.030784371497647983,,X,,,,,,,,,50,69,Sn,,89.531,0.013,11/2-,293.1,,7,d,25323840,60480,IT,100,,,,50,69,Sn,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2024-03-22
+

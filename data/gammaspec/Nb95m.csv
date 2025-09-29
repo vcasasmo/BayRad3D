@@ -1,0 +1,8 @@
+energy,unc_en,intensity_%,unc_i,type,start level H-l [sec],start level energy  [keV],  end level energy  [keV],  end level H-l  [sec], multipolarity, mixing ratio, unc, conversion coeff. ,unc, parent Z, N, symbol, parent energy shift,parent energy  [keV] , unc, jp,  half_life, half-life operator,unc,unit, half_life [s], unc, decay, decay %, unc,Q , unc, Z,N, symbol ,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+235.69,0.02,24.8,0.8,311904,G,3023222.4,235.69,0,M4,,,2.78,,41,54,Nb,,235.69,0.02,1/2-,3.61,,3,d,311904,2592,IT,94.4,0.6,,,41,54,Nb,30-Jun-09,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,22/03/2024
+2.299,,2.510153584,0.172451526,,X,,,,,,,,,41,54,Nb,,235.69,0.02,1/2-,3.61,,3,d,311904,2592,IT,94.4,0.6,,,41,54,Nb,30-Jun-09,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,22/03/2024
+16.521,,12.63733142,0.953479173,,X,,,,,,,,,41,54,Nb,,235.69,0.02,1/2-,3.61,,3,d,311904,2592,IT,94.4,0.6,,,41,54,Nb,30-Jun-09,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,22/03/2024
+16.615,,24.13546871,1.817356881,,X,,,,,,,,,41,54,Nb,,235.69,0.02,1/2-,3.61,,3,d,311904,2592,IT,94.4,0.6,,,41,54,Nb,30-Jun-09,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,22/03/2024
+18.694,,6.244980753,0.473678585,,X,,,,,,,,,41,54,Nb,,235.69,0.02,1/2-,3.61,,3,d,311904,2592,IT,94.4,0.6,,,41,54,Nb,30-Jun-09,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,22/03/2024
+18.795,,7.181727866,0.543834704,,X,,,,,,,,,41,54,Nb,,235.69,0.02,1/2-,3.61,,3,d,311904,2592,IT,94.4,0.6,,,41,54,Nb,30-Jun-09,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,22/03/2024
+18.951,,0.936747113,0.077610252,,X,,,,,,,,,41,54,Nb,,235.69,0.02,1/2-,3.61,,3,d,311904,2592,IT,94.4,0.6,,,41,54,Nb,30-Jun-09,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,22/03/2024

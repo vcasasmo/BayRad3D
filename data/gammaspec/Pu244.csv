@@ -1,0 +1,4 @@
+energy,unc_en,intensity_%,unc_i,type,start level H-l [sec],start level energy  [keV],  end level energy  [keV],  end level H-l  [sec], multipolarity, mixing ratio, unc, conversion coeff. ,unc, parent Z, N, symbol, parent energy shift,parent energy  [keV] , unc, jp,  half_life, half-life operator,unc,unit, half_life [s], unc, decay, decay %, unc,Q , unc, Z,N, symbol ,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+44,2,0.029,0.008,,G,,44,0.0,[E2],,,6.7E2,,94,150,Pu,,0,,0+,8.13E+7,,3,Y,2565578081734329.5,9467077792377.6,A,99.877,0.006,4665.6,10,92,148,U,31-Jul-2008,BALRAJ SINGH and  E. BROWNE,2024-03-22
+16.678,,5.6939,0.3192902096388801,,X,,,,,,,,,94,150,Pu,,0,,0+,8.13E+7,,3,Y,2565578081734329.5,9467077792377.6,A,99.877,0.006,4665.6,10,92,148,U,31-Jul-2008,BALRAJ SINGH and  E. BROWNE,2024-03-22
+

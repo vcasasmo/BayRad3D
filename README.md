@@ -14,7 +14,7 @@ This repository provides the **implementation used to generate the results in th
 It leverages **NumPyro** (probabilistic programming on JAX) to perform Bayesian inference on simulated waste drums.  
 
 Main features:
-- Virtual **synthetic drum datasets** (Cs-137, Eu-152) available for testing.  
+- Virtual **synthetic drum datasets** (Cs-137, Eu-152 and Co-60) available for testing.  
 - **Variational inference (SVI)** with an **AutoNormal guide**.  
 - Posterior predictive checks and other diagnostic tools included in the flow.  
 - 2D and (optional) 3D visualization of reconstructed activity distributions.  

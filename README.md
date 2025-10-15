@@ -1,4 +1,4 @@
-# Code from the article "3D Activity Reconstruction from Angular Gamma Scanning with Variational Bayes: a proof of concept"
+# Code from the article "3D Activity Reconstruction from Angular Gamma Scanning via Variational Bayes: a proof of concept"
 
 ## Abstract  
 This study serves as a **proof of concept** for a **Bayesian variational framework** enabling high-resolution 3D activity reconstruction in 220 L waste drums using **Angular Segmented Gamma Scanning (ASGS)** data and transmission-derived attenuation maps.  
